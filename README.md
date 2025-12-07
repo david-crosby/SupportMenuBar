@@ -1,5 +1,7 @@
 # Support Menu Bar
 
+** THIS IS A LEARNING PROJECT - NOT PRODUCTION CODE  
+
 A native macOS menu bar application providing quick access to device, network, and proxy information for support purposes.
 
 ## Features
